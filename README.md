@@ -1,6 +1,6 @@
 # build-a-bot
 
-## For Learning/PoC purposes.
+For Learning/PoC purposes.
 
 ## Project setup
 ```
