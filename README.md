@@ -1,5 +1,7 @@
 # build-a-bot
 
+## For Learning/PoC purposes.
+
 ## Project setup
 ```
 npm install
